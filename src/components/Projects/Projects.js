@@ -60,7 +60,7 @@ MySQL
 HTML, CSS, JavaScript
 
 Bootstrap"
-              ghLink="https://github.com/pujisudaryantoo/Inven-CVSMI"
+              ghLink="https://github.com/pujisudaryantoo/inventory-SMI"
               demoLink="#"
             />
           </Col>
