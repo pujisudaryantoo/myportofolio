@@ -68,7 +68,7 @@ function Home2() {
         <p className="mt-3">Framework & Native JavaScript</p>
         <ProgressBar now={55}  striped animated className="custom-progress" />
 
-        <p className="mt-3">Mobile Programming (Java & Kotlin)</p>
+        <p className="mt-3">Mobile Programming (Flutter & Kotlin)</p>
         <ProgressBar now={25} striped animated className="custom-progress" />
       </Col>
 
