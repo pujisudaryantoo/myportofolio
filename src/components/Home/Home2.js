@@ -18,7 +18,7 @@ function Home2() {
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
+            <h1 style={{ fontSize: "2.0em" }}>
               IZINKAN SAYA <span className="purple"> MEMPERKENALKAN </span> DIRI
             </h1>
             <p className="home-about-body">
@@ -74,8 +74,8 @@ function Home2() {
 
       {/* Kolom Kanan */}
       <Col md={6} className="home-about-social">
-        <p>Flutter</p>
-        <ProgressBar now={25}  striped animated className="custom-progress" />
+        <p>ReactJs</p>
+        <ProgressBar now={50}  striped animated className="custom-progress" />
 
         <p className="mt-3">Database & System</p>
         <ProgressBar now={63}  striped animated className="custom-progress" />
@@ -135,16 +135,6 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <AiFillFacebook />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="mailto:sudaryanto200@gmail.com" // GANTI DENGAN LINK INSTAGRAM ANDA
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiOutlineMail />
                 </a>
               </li>
             </ul>

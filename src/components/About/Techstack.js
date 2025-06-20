@@ -16,6 +16,10 @@ import {
   DiPhp,
 } from "react-icons/di";
 
+import {
+  SiReact
+} from "react-icons/si"
+
 
 function Techstack() {
   return (
@@ -39,6 +43,9 @@ function Techstack() {
         <DiAndroid />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiReact />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiDatabase />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -55,9 +62,6 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiDocker />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiDart />
       </Col>
     </Row>
   );
