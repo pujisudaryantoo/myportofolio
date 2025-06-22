@@ -6,7 +6,7 @@ import kazee from "../../Assets/Projects/kazee.png";
 import voma from "../../Assets/Projects/voma.png";
 import keuangan from "../../Assets/Projects/keuangan.png";
 import desamind from "../../Assets/Projects/desamind.png";
-import sinau from "../../Assets/Projects/sinau app.png";
+import sinau from "../../Assets/Projects/sinau.png";
 import inventaris from "../../Assets/Projects/inventaris.png";
 import kazee1 from "../../Assets/Projects/kazee1.png";
 
