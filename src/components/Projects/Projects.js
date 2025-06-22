@@ -8,6 +8,7 @@ import keuangan from "../../Assets/Projects/keuangan.png";
 import desamind from "../../Assets/Projects/desamind.png";
 import sinau from "../../Assets/Projects/sinau app.png";
 import inventaris from "../../Assets/Projects/inventaris.png";
+import kazee1 from "../../Assets/Projects/kazee1.png";
 
 function Projects() {
   return (
@@ -60,7 +61,7 @@ MySQL
 HTML, CSS, JavaScript
 
 Bootstrap"
-              ghLink="https://github.com/pujisudaryantoo/inventory-SMI"
+              // ghLink="#"
               demoLink="#"
             />
           </Col>
@@ -108,7 +109,7 @@ MySQL (Database)
 REST API Integration (jika terhubung ke data eksternal)
 
 "
-              ghLink="https://github.com/pujisudaryantoo/kazee.github.io"
+              // ghLink="https://github.com/pujisudaryantoo/kazee.github.io"
               demoLink="https://pujisudaryantoo.github.io/kazee.github.io/"
             />
           </Col>
@@ -165,6 +166,18 @@ User Flow untuk memetakan perjalanan pengguna dari homepage ke checkout
 
 Konsistensi desain dengan identitas brand (warna, font, ikonografi)"
               ghLink="https://www.figma.com/community/file/1517625184420770739"
+              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={kazee1}
+              isBlog={true}
+              title="UI/UX – Mobile PT Kazee Digital Indonesia"
+              description="Saya bertanggung jawab dalam merancang tampilan antarmuka (UI) dan pengalaman pengguna (UX) untuk aplikasi internal PT Kazee Digital Indonesia. Proses desain dilakukan secara menyeluruh mulai dari riset kebutuhan pengguna, pembuatan user flow, wireframe, hingga high-fidelity design menggunakan Figma.
+Fokus utama desain ini adalah menciptakan tampilan yang modern, intuitif, dan mudah digunakan oleh berbagai level pengguna, sekaligus mendukung efisiensi kerja tim internal perusahaan.
+Kolaborasi dilakukan secara agile bersama tim developer dan stakeholder untuk memastikan hasil desain sesuai kebutuhan bisnis."
+              ghLink="https://www.figma.com/design/iA8zvIpnv97GHPgmWidSae/Kazee?node-id=0-1&m=dev&t=S1WwRZ80R16TtnNV-1"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
